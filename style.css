@@ -1,0 +1,18 @@
+.keyboard{
+    text-align: center;
+    margin-top: 150px;
+}
+body{
+    background-color:  rgb(30,20,20);
+    
+}
+
+
+.box{
+    width: 75px;
+    height: 120px;
+    background-color: darkviolet;
+
+border:2px solid rgb(220,220,225);
+    display: inline-block
+}
